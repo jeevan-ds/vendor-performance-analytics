@@ -1,0 +1,5 @@
+Python (Pandas, NumPy, Matplotlib, Seaborn)
+SQL (SQLite)
+Jupyter Notebook
+Data Visualization
+Statistical Analysis
