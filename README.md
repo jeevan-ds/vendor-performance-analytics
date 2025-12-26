@@ -1,4 +1,5 @@
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/7545db17-36b0-46c8-afb8-ad6697ba014e" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/19fd4c9c-5dfd-4974-b676-8c26e935d2d5" />
+
 
 Data-driven analysis of vendor sales, profitability, inventory efficiency, and strategic optimization using SQL and Python.
 #  Vendor Performance Data Analysis
